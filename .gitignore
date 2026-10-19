@@ -1,0 +1,24 @@
+
+# Arduino build files
+*.bin
+*.elf
+*.map
+*.uf2
+*.hex
+*.o
+
+# Temporary build folders
+build/
+arduino_build_*/
+arduino_cache_*/
+
+# Editor and system files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.bak
+*~
