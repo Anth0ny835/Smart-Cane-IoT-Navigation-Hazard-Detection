@@ -1,6 +1,6 @@
 # Smart Cane — IoT Navigation & Hazard Detection
 
-**University group project · KP44302 Internet of Things · Universiti Malaysia Sabah (2025/2026)**
+**University group project · Internet of Things · Universiti Malaysia Sabah (2025/2026)**
 
 A prototype assistive smart cane built around a **Raspberry Pi Pico W**. The firmware combines several sensors to identify nearby obstacles and potential hazards, record GPS waypoints, and provide feedback using speech, buzzer patterns, and vibration.
 
